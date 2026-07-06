@@ -35,4 +35,4 @@ Oii! Eu sou a Jessica Camily, tenho 20 anos e concluí o Ensino Médio integrado
 
 <br>
 
-<img src="https://raw.githubusercontent.com/CodeBy-Jessie/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/CodeBy-Jessie/CodeBy-Jessie/output/snake.svg" alt="Snake animation" />
