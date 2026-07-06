@@ -1,6 +1,6 @@
 # 🩰 Jessie Camily
 
-**`Desenvolvedora FrontEnd`**
+**`Desenvolvedora FrontEnd & Bailarina Formada`**
 
 Oii! Eu sou a Jessica Camily, tenho 20 anos e concluí o Ensino Médio integrado ao curso técnico em Análise e Desenvolvimento de Sistemas pela ETEC. Atualmente, estudo Desenvolvimento Front-end, aprofundando meus conhecimentos em HTML, CSS e JavaScript. Além da tecnologia, também sou professora de ballet, uma experiência que fortaleceu minha criatividade, organização e atenção aos detalhes.
 
@@ -25,12 +25,8 @@ Oii! Eu sou a Jessica Camily, tenho 20 anos e concluí o Ensino Médio integrado
 <br>
 <br>
 
-###
-
 ---
 
-___
-___
 ### 📊 Estatísticas
 
 <div align="center">
@@ -40,5 +36,3 @@ ___
 <br>
 
 <img src="https://raw.githubusercontent.com/CodeBy-Jessie/CodeBy-Jessie/output/snake.svg" alt="Snake animation"/>
-
-###
