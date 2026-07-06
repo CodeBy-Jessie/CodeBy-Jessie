@@ -25,14 +25,20 @@ Oii! Eu sou a Jessica Camily, tenho 20 anos e concluí o Ensino Médio integrado
 <br>
 <br>
 
+###
+
 ---
 
+___
+___
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeBy-Jessie&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByJessie&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/CodeBy-Jessie/CodeBy-Jessie/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/CodeBy-Jessie/CodeBy-Jessie/output/snake.svg" alt="Snake animation"/>
+
+###
