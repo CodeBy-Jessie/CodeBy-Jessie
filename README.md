@@ -17,8 +17,6 @@ Oii! Eu sou a Jessica Camily, tenho 20 anos e concluí o Ensino Médio integrado
 
 ### 🤖 Linguagens e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
 <img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -35,9 +33,5 @@ Oii! Eu sou a Jessica Camily, tenho 20 anos e concluí o Ensino Médio integrado
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeBy-Jessie&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
 </div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/CodeBy-Jessie/CodeBy-Jessie/output/snake.svg" alt="Snake animation"/>
 
 ###
